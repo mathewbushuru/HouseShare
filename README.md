@@ -1,0 +1,1 @@
+- Used `create-react-native-app` instead of Expo to build this app for a change. 
